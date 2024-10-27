@@ -18,9 +18,9 @@ Open 'SOS_AndroidML_HandGestureRecognitionModelTraining.ipynb' in Google Colab a
 ## Resources
 **Coding:**
 [Rock-Paper-Scissors](https://github.com/google-ai-edge/mediapipe-samples/blob/main/tutorials/gesture_recognizer/WiMLS_2022_MediaPipe_Gesture_Recognizer_Walkthrough.ipynb)
+
 [Model training with MediaPipe Model Maker - ML on Android with MediaPipe Series](https://www.youtube.com/watch?app=desktop&v=vODSFXEP-XY&ab_channel=GoogleforDevelopers)
  [Colab - get image from Drive:](https://medium.com/data-arena/how-to-load-files-insert-images-in-google-colabatory-c5d1365d60d4)
 
 **Image Inspiration:**
 [TBWA](https://tbwa.com/work/signal-for-help/)
-
